@@ -18,10 +18,16 @@ Your users should be able to:
   - The `input` field is empty
   - The email address is not formatted correctly
 
+## Languages :computer: 
+
+- **HTML** 
+- **CSS**
+- **Javascript**
 
 ## Sharing your solution
 
-
+Click [HERE](https://base-apparel-coming-soon-eight-eta.vercel.app) to see the solution.
 
 ## Giving feedback
 
+Feedback is always welcome, so if you have any to give on this challenge please email gcgonzalez99@hotmail.com
